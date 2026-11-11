@@ -1,0 +1,4 @@
+imu_calibrate:
+  ros__parameters:
+    sample_target: 2000
+    output_path: imu_calibration.yaml
